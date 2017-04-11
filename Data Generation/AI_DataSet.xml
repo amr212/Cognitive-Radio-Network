@@ -1,0 +1,43 @@
+WHERE LABEL IS REQUIRED OUTPUT AND POWER, NOISE_FLOOR ARE THE INPUTS
+-----------------------------------
+LABEL O/P  POWER       NOISE_FLOOR
+-----------------------------------
+PU==ON -           -
+PU==ON -           -
+PU==ON -           -
+PU==ON -           -
+PU==ON -           -
+PU==ON -           -
+PU==ON -           -
+PU==ON -           -
+PU==ON -           -
+PU==ON -           -
+PU==ON -           -
+PU==ON -           -
+PU==ON -           -
+PU==ON -           -
+PU==ON -           -
+PU==ON -           -
+
+PU==OFF-           -
+PU==OFF-           -
+PU==OFF-           -
+PU==OFF-           -
+PU==OFF-           -
+PU==OFF-           -
+PU==OFF-           -
+PU==OFF-           -
+PU==OFF-           -
+PU==OFF-           -
+PU==OFF-           -
+PU==OFF-           -
+PU==OFF-           -
+PU==OFF-           -
+PU==OFF-           -
+PU==OFF-           -
+PU==OFF-           -
+           -
+
+
+
+THen pass this Data to ANN ALGORITHM TO TRAIN
